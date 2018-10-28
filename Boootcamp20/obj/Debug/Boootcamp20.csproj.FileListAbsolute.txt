@@ -1,0 +1,15 @@
+c:\users\sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\bin\Debug\Boootcamp20.exe.config
+c:\users\sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\bin\Debug\Boootcamp20.exe
+c:\users\sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\bin\Debug\Boootcamp20.pdb
+c:\users\sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\obj\Debug\Boootcamp20.exe
+c:\users\sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\obj\Debug\Boootcamp20.pdb
+c:\users\sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\bin\Debug\EntityFramework.dll
+c:\users\sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\bin\Debug\EntityFramework.xml
+c:\users\sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sekar\Documents\Visual Studio 2015\Projects\Boootcamp20\Boootcamp20\obj\Debug\Boootcamp20.csproj.GenerateResource.Cache
+C:\Users\Sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\obj\Debug\Boootcamp20.Migrations.addingModelDetailPenjualan.resources
+C:\Users\Sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\obj\Debug\Boootcamp20.csprojResolveAssemblyReference.cache
+C:\Users\Sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\obj\Debug\Boootcamp20.Migrations.addingModelSupplier2.resources
+C:\Users\Sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\obj\Debug\Boootcamp20.Migrations.addingModelItems.resources
+C:\Users\Sekar\documents\visual studio 2015\Projects\Boootcamp20\Boootcamp20\obj\Debug\Boootcamp20.Migrations.addingModelPenjualan.resources
