@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Boootcamp20
 {
-    class MainKalkulator
+    public class MainKalkulator
     {
+		Console.write();
     }
 }
