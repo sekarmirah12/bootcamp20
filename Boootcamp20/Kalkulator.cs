@@ -34,6 +34,7 @@ namespace Boootcamp20
         {
             this.num3 = c;
             this.num4 = d;
+			Console.Write("abc");
         }
 
         public override double Hitung()
